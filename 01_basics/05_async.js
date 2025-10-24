@@ -20,8 +20,5 @@
 //     console.log("some function cb")
 // }
 
-// greet( cb )
+// greet( cb
 
-
-
-console.log("trisha and sharan")

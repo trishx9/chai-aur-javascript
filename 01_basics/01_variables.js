@@ -10,4 +10,4 @@ console.log(x) //10
 let y = 20
 console.log (y)
 
-console.log(z) // reference error . z not defined
+console.log(z) // reference error . z not defined                    
